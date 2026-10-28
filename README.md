@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # iMovies --- Movie Ticket Booking Platform
 
 iMovies is a full-stack movie discovery and cinema ticket-booking web
@@ -442,3 +443,6 @@ behavior have been tested.
 
 No license is specified in this repository yet. Add a `LICENSE` file
 before distributing the project if you intend to publish it for reuse.
+=======
+# imovies
+>>>>>>> 4aa464ae97da6075d5c356856078ce9f92da3ad2
